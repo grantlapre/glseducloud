@@ -38,7 +38,7 @@ const Posts = () => {
         To your safety`
         
         ,
-        author: "Lawrie Student CSU - Master of Cyber Security",
+        author: "Lawrie Student CSU - Grad Cert in Cloud & Virtualisation",
         blogImg:
             cs1,
         },
@@ -66,21 +66,21 @@ const Posts = () => {
         
         To your online safety,
         `,
-        author: "Lawrie Student CSU - Master of Cyber Security",
+        author: "Lawrie Student CSU - Grad Cert in Cloud & Virtualisation",
         blogImg:
             bd1,
         },
         {
         title: "Algorithm",
         body: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
-        author: "Lawrie Student CSU - Master of Cyber Security",
+        author: "Lawrie Student CSU - Grad Cert in Cloud & Virtualisation",
         blogImg:
             "https://media.geeksforgeeks.org/img-practice/banner/google-test-series-thumbnail.png",
         },
         {
         title: "Computer Network",
         body: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.`,
-        author: "Lawrie Student CSU - Master of Cyber Security",
+        author: "Lawrie Student CSU - Grad Cert in Cloud & Virtualisation",
         imgUrl:
             "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
         },
